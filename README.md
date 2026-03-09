@@ -1,4 +1,4 @@
-# Book-Ratings-Data-Analysis #
+# Bookstore Users’ Review Data Analysis #
 Descriptions
 ---------------
 This repository contains code for a book recommendation system data analysis using Python and machine learning techniques. The system utilizes a dataset comprising information about books, users, and ratings to recommend books to users based on their preferences.
